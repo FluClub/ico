@@ -6,11 +6,11 @@ Flub is a distributed platform.
 
 ## 说明:
 ### 打币
-推荐的gas 70000
+推荐的gas:70000
 
 ### 退币
-推荐的gas 30000  
+推荐的gas:30000  
 
-十六进制数据 0x590e1ae3 
+十六进制数据:0x590e1ae3 
 
 

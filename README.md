@@ -29,6 +29,8 @@ Flu是一个分布式的资源平台。每一个PC版本的客户端都是一个
 
 [区块链浏览器地址](https://etherscan.io/)
 
+[推荐钱包imtoken](https://token.im/)
+
 ## 打币
 推荐的gas:70000
 

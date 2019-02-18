@@ -1,2 +1,2 @@
-# ico
-smart contract about ico
+# Flub
+Flub is a distributed platform.

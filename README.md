@@ -50,11 +50,8 @@ __推荐钱包: https://token.im/__
 
 FluClub是一个分散的开发者社区组织，由世界各地的开发者匿名组成。本次ICO募集的资金用于平台未来的开发和运营（比如上线交易所等等），我们希望打造一个完全社区化自治的分布式平台，未来社区的发展、收益都由社区投票决定。大家共同付出，获取回报。
 
-* [社群地址](https://pt.im/joinchat/d59b4733f1e913d91e264c1943f763c5) https://pt.im/joinchat/d59b4733f1e913d91e264c1943f763c5
+核心交流群：https://pt.im/joinchat/d59b4733f1e913d91e264c1943f763c5
 
-扫描下方二维码加入核心群：
+加入方式：扫描下方二维码后用选择用浏览器打开网页，下载 Potato App 注册账号后再次打开网页即可加入社群
 
-<img src="https://github.com/FluClub/ico/blob/master/flugroup.png?raw=true" width = "100" height = "100" div align=right />
-
-扫描后用选择用浏览器打开网页，下载 Potato App 注册账号后再次打开网页即可加入社群
-
+<img src="https://github.com/FluClub/ico/blob/master/flugroup.png?raw=true" width = "200" height = "200" div align=left />

@@ -28,9 +28,9 @@ Flu Token除ico部分以外，其余token只能通过主网上线以后挖矿获
 * 2019年第四季度平台对接广告商等外部资源，持币用户和内容作者享受收益分成；
 
 ## 合约
-合约地址：0X00000000000000000000
+合约地址：0x17dD6e4D64362A950ad8Bf331DDebe98288207ae
 
-[区块链浏览器地址](https://etherscan.io/)
+[区块链浏览器地址](https://etherscan.io/address/0x17dd6e4d64362a950ad8bf331ddebe98288207ae)
 
 ## 打币
 推荐的gas:70000

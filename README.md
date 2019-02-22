@@ -41,7 +41,7 @@ __推荐imtoken钱包: https://token.im/__
 
 打开 imtoken 扫描下方二维码转账即可完成打币
 
-<img src="https://github.com/FluClub/ico/blob/master/fluico.png?raw=true" width = "200" height = "200" div align=left />
+![avatar](https://github.com/FluClub/ico/blob/master/fluico.png?raw=true)
 
 ## 退币
 

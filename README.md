@@ -39,9 +39,9 @@ Flu Token除ico部分以外，其余token只能通过主网上线以后挖矿获
 
 __推荐imtoken钱包: https://token.im/__
 
-打开 imtoken 扫描下方二维码转账即可完成打币
+打开 imtoken 钱包扫描下方二维码转账即可完成打币
 
-![avatar](https://github.com/FluClub/ico/blob/master/fluico.png?raw=true)
+![ico](https://github.com/FluClub/ico/blob/master/fluico.png?raw=true)
 
 ## 退币
 
@@ -57,4 +57,4 @@ FluClub是一个分散的开发者社区组织，由世界各地的开发者匿�
 
 加入方式：扫描下方二维码后用选择用浏览器打开网页，下载 Potato App 注册账号后再次打开网页即可加入社群
 
-<img src="https://github.com/FluClub/ico/blob/master/flugroup.png?raw=true" width = "200" height = "200" div align=left />
+![group](https://github.com/FluClub/ico/blob/master/flugroup.png?raw=true)

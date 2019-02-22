@@ -37,8 +37,11 @@ Flu Token除ico部分以外，其余token只能通过主网上线以后挖矿获
 
 推荐的 gas:70000
 
-__推荐钱包: https://token.im/__
+__推荐imtoken钱包: https://token.im/__
 
+打开 imtoken 扫描下方二维码转账即可完成打币
+
+<img src="https://github.com/FluClub/ico/blob/master/fluico.png?raw=true" width = "200" height = "200" div align=left />
 
 ## 退币
 

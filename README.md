@@ -52,5 +52,9 @@ FluClub是一个分散的开发者社区组织，由世界各地的开发者匿�
 
 * [社群地址](https://pt.im/joinchat/d59b4733f1e913d91e264c1943f763c5) https://pt.im/joinchat/d59b4733f1e913d91e264c1943f763c5
 
+扫描下方二维码加入核心群：
 
+<img src="https://github.com/FluClub/ico/blob/master/flugroup.png?raw=true" width = "100" height = "100" div align=right />
+
+扫描后用选择用浏览器打开网页，下载 Potato App 注册账号后再次打开网页即可加入社群
 

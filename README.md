@@ -11,8 +11,6 @@ Flu是一个分布式的资源平台。每一个PC版本的客户端都是一个
 * <=30000ETH 兑换比例 1:6000
 * <=40000ETH 兑换比例 1:5000
 
-__推荐钱包: https://token.im/__
-
 ## Flu Token分配
 
 Flu Token除ico部分以外，其余token只能通过主网上线以后挖矿获得。挖矿初始奖励8Flu，每200万块奖励减半，当奖励减到1个Flu时不再递减。
@@ -31,13 +29,16 @@ Flu Token除ico部分以外，其余token只能通过主网上线以后挖矿获
 
 ## 合约
 
-* 合约地址：0x17dD6e4D64362A950ad8Bf331DDebe98288207ae
+* 合约地址&打币地址 ：0x17dD6e4D64362A950ad8Bf331DDebe98288207ae
 
 * [区块链浏览器地址](https://etherscan.io/address/0x17dd6e4d64362a950ad8bf331ddebe98288207ae) : https://etherscan.io/address/0x17dd6e4d64362a950ad8bf331ddebe98288207ae
 
 ## 打币
 
-推荐的gas:70000
+推荐的 gas:70000
+
+__推荐钱包: https://token.im/__
+
 
 ## 退币
 

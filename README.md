@@ -8,7 +8,7 @@ Flu是一个分布式的资源平台。每一个PC版本的客户端都是一个
 
 * 推荐钱包: https://token.im/
 
-<table>
+<table border="1">
  <tr><th>ETH</th><th>Flu Token</th></tr>
  <tr><td><=10000ETH</td><td>1:10000</td></tr>
  <tr><td><=20000ETH</td><td>1:8000</td></tr>

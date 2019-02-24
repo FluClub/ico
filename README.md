@@ -6,15 +6,17 @@
 
 >FluClub是一个分散的开发者社区组织，由世界各地的开发者匿名组成。本次ICO募集的资金用于平台未来的开发和运营（比如上线交易所等等），我们希望打造一个完全社区化自治的分布式平台，未来社区的发展、收益都由社区投票决定。大家共同付出，获取回报。
 
-#### 核心交流群：https://pt.im/joinchat/d59b4733f1e913d91e264c1943f763c5
+#### 核心技术群
 
+>https://pt.im/joinchat/d59b4733f1e913d91e264c1943f763c5
 >加入方式：扫描下方二维码后选择用浏览器打开网页，下载 Potato App 注册账号后再次打开网页即可加入社群
 
 ![group](https://github.com/FluClub/ico/blob/master/flugroup.png?raw=true)
 
 
-#### 核心交流群(火信) : https://h5.hottalk.com.cn/app-share/index.html#/group?g=gq4zfec3mv
+#### 火信投资群 
 
+>https://h5.hottalk.com.cn/app-share/index.html#/group?g=gq4zfec3mv
 >加入方式：扫描下方二维码后选择用浏览器打开网页，按提示下载"火信app"后注册账号，再次打开网页即可加入群
 
 ![group](https://github.com/FluClub/ico/blob/master/flugroup_hx.png?raw=true)
